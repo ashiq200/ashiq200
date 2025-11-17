@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D12AQECoGMe4jGWyw/article-cover_image-shrink_600_2000/0/1687858136447?e=2147483647&v=beta&t=XQpWsd2CsAoEw67TbHDY5fGKga0UEQ8KZilAart20o4)
-<h1 align="center">Hi 👋, I'm ARMAN RAKIB</h1>
+<h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. </h3>
 <img align="right"  alt="Coding" width="560" src="https://camo.githubusercontent.com/44d22fb025ff51bd2a47a8825be9f76eff7118b65b7b5ec5d54531f9ab5f93c4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966">
 
@@ -11,17 +11,14 @@
 
 - 💬 Ask me about **JavaScript, C++, DSA**
 
-- 📫 How to reach me **armanrakib61@gmail.com**
+- 📫 How to reach me **rahman.ashiqur2592@gmail.com
+**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/arman-rakib-9b4792317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armanrakib" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/armanrakib83/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armanrakib" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/u/ARMANRAKIB/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="armanrakib" height="30" width="40" /></a>
 </p>
 <br>
 <div id="badges">
